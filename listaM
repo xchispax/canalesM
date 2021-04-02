@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|US| A&E HD" tvg-logo="" group-title="USA",|US| A&E HD
 http://QgdJtbPhs2mB7eXra4WLU0.bee.hurly.me/live/sun.php?
-z=111&u=AhvzWiQqxG&s=9111561191&id=63214&t=live&f=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="|US| ABC ORLANDO" tvg-logo="" group-title="USA",|US| ABC ORLANDO
 http://7cn23ue1VTDoqQGMNg5zlK.bee.hurly.me/live/sun.php?
-z=111&u=AhvzWiQqxG&s=9111561191&id=63239&t=live&f=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="|US| BEIN 1 HD" tvg-logo="" group-title="USA",|US| BEIN 1 HD
 http://lKTrs3iYdfhLH5EUp2yoGQ.bee.hurly.me/live/sun.php?
-z=111&u=AhvzWiQqxG&s=9111561191&id=63260&t=live&f=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="|US| BEIN 2 HD (STOPPED SAME 4113)" tvg-logo="" group-title="USA",|US| BEIN 2 HD (STOPPED SAME 4113)
 http://OYPrHG4w2guIlXyAezTsKa.bee.hurly.me/live/sun.php?
-z=111&u=AhvzWiQqxG&s=9111561191&id=63261&t=live&f=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="|US| BEIN 3 HD (L)" tvg-logo="" group-title="USA",|US| BEIN 3 HD (L)
 http://Y0VjCotqh39NcGnAuzWDx8.bee.hurly.me/live/sun.php?
 z=111&u=AhvzWiQqxG&s=9111561191&id=63262&t=live&f=ts
